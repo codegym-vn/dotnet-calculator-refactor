@@ -1,0 +1,11 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.runtimeconfig.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.runtimeconfig.dev.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.pdb
